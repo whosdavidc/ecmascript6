@@ -46,3 +46,17 @@ const data= {
     front:'Alej', // Puede existir
     back: 'Rel'
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
